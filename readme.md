@@ -125,8 +125,8 @@ npm run dev
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- GitHub: https://github.com/Sumit93500
+- LinkedIn: https://www.linkedin.com/in/sumit-yadav-423016317/
 
 ---
 
